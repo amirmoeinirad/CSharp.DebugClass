@@ -3,7 +3,10 @@
 // April 29, 2025
 
 // Main Concept: Debug Class
+
 // The 'Debug' class is used to write information to the debug output window in Visual Studio or Rider.
+// This is useful for developers to monitor the flow of execution and values of variables during debugging sessions.
+
 // Additional Concepts: String Manipulation, DateTime Struct
 
 using System;
